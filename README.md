@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **Software Engineer | DevSecOps Engineer | M.Sc. Cybersecurity**
 
 I design and build secure software delivery systems with a focus on **DevSecOps, cloud-native security, CI/CD hardening, Kubernetes security, and Infrastructure as Code**.
@@ -109,4 +108,3 @@ I’m currently developing portfolio projects that demonstrate:
 
 Thanks for stopping by.
 
--->
