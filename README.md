@@ -43,6 +43,7 @@ My work and interests sit at the intersection of:
 - Git
 - Linux
 - Java
+- Go
 
 **DevOps / Cloud**
 - GitHub Actions
@@ -51,6 +52,7 @@ My work and interests sit at the intersection of:
 - Helm
 - Terraform
 - Ansible
+- Containers
 
 **Security**
 - Trivy
