@@ -3,8 +3,8 @@
 **Software Engineer | DevSecOps Engineer | M.Sc. Cybersecurity**
 ## Certifications
 
-🟥 **Red Hat Certified Engineer (RHCE)**
-☸️ **Certified Kubernetes Administrator (CKA)**
+- 🟥 **Red Hat Certified Engineer (RHCE)**
+- ☸️ **Certified Kubernetes Administrator (CKA)**
 
 I design and build secure software delivery systems with a focus on **DevSecOps, cloud-native security, CI/CD hardening, Kubernetes security, and Infrastructure as Code**.
 
